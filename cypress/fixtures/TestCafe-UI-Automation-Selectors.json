@@ -1,0 +1,26 @@
+{
+   "url":" https://easecommerce.in/app/login",
+   "userName": "#login-form-username",
+   "password": "#login-form-password",
+   "login": "button",
+   "loggedInUser": "[class*='MuiBox-root'] p[class*='MuiTypography-body2']",
+   "contextIcon": "[aria-label='Open Settings']",
+   "employeeView": "ul li:nth-child(1)",
+   "addtask":"[class*='MuiBox-root'] button[class*='css-84c6ri']",
+   "superCategory": "input[placeholder*='Select Super Category']",
+   "subCategory":"[name='subCategory']",
+   "taskName":"#task-name-input",
+   "assignedTo": "[placeholder='Select Assignee']",
+   "reviewer": "[placeholder='Select Reviewers']",
+   "prority": "[placeholder='Select Priority']",
+   "description":"[class*='ql-blank']",
+   "dateSelection": "[aria-label='Choose date']",
+   "daySelection": "[role='rowgroup'] button",
+   "submitButton": "[type='submit']",
+   "fieldValiadtors": "[class*='MuiBox-root'] p[class*='css-awg5pc']",
+   "taskAvailable":"[class*='css-17vjgne']",
+   "createTaskConfirmation": "Yes, create it!",
+   "taskCreateAPI": "**/api/tasks/create"
+   
+   
+}

@@ -1,0 +1,18 @@
+{
+    "username": "demouser@easecommerce.in",
+    "password": "cE7iQPP^",
+    "loggedInUserName": "FB Test User",
+    "dashBoardUrl":"/app/admin/master/org",
+    "taskButtonText": "Add Task",
+    "employeeViewUrl":"/app/employee/task-management/tasks",
+    "superCatergory": "Customer Support Services",
+    "subCategory": "Routine Customer Handling",
+    "taskName":"TestCafe QA Testing",
+    "assigne": "Prachi Panchal",
+    "reviewer":"Sandeep Puniya",
+    "priorityLevel":"Medium",
+    "description": "QATask Creation",
+    "validationMessages":"Field is required",
+    "validateMessage": "reviewer field must have at least 1 items"
+   
+}

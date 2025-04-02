@@ -1,0 +1,15 @@
+{
+  "name": "qa_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "executeTests":"npx cypress run --headed --browser edge"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^14.2.1"
+  }
+}
